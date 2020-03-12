@@ -1,0 +1,7 @@
+*.zip
+*.gz
+deepspeech-0.1.1-models/**
+deepspeech-0.5.1-models/**
+deepspeech-0.6.0-alpha.12/**
+p5/**
+*.exe
